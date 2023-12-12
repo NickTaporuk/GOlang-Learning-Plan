@@ -1,4 +1,4 @@
-## DevOps Learning Plan 2024
+## GOlang Learning Plan 2024
 
 This is my DevOps learning plan for the year 2024, it consists of both paid courses and free courses, pick as you wish and create your own learning plan.
 
